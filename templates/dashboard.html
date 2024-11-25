@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DecoyNet AI Dashboard</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        /* Reset default margin and padding */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Body and font setup */
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: #121212;
+            color: #f1f1f1;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            transition: background-color 0.3s ease;
+        }
+
+        h1, h2, h3 {
+            font-weight: 600;
+            color: #00ffcc; /* Neon-like color for header */
+            margin-bottom: 15px;
+        }
+
+        p {
+            font-size: 18px;
+            margin-bottom: 10px;
+            font-weight: 300;
+        }
+
+        pre {
+            background: #1c1c1c;
+            padding: 15px;
+            border-radius: 8px;
+            font-size: 16px;
+            overflow-x: auto;
+            word-wrap: break-word;
+            margin-top: 15px;
+            color: #ffb347;
+        }
+
+        button {
+            background-color: #00ffcc;
+            color: #121212;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 18px;
+            margin-top: 20px;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        button:hover {
+            background-color: #009e88;
+            transform: scale(1.05);
+        }
+
+        button:focus {
+            outline: none;
+        }
+
+        /* Flexbox layout */
+        .status-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .status-container p {
+            font-size: 20px;
+        }
+
+        .state-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 30px;
+        }
+
+        /* Add a futuristic border effect */
+        .border-effect {
+            border: 2px solid #00ffcc;
+            border-radius: 10px;
+            padding: 10px;
+            margin-top: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .border-effect:hover {
+            box-shadow: 0 0 20px 10px rgba(0, 255, 204, 0.6);
+        }
+
+        .json-output {
+            font-size: 16px;
+            color: #ffb347;
+            word-break: break-word;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to DecoyNet AI</h1>
+    
+    <div class="status-container">
+        <h2>System Status</h2>
+        <p>Active Traps: <span id="active_traps">{{ active_traps }}</span></p>
+        <p>Decoy Status: <span id="decoy_status">{{ decoy_status }}</span></p>
+    </div>
+    
+    <button id="deploy_decoy_btn">Deploy New Decoy</button>
+    
+    <div class="state-container">
+        <h3>Current State (JSON)</h3>
+        <pre id="current_state" class="border-effect json-output">{{ state | tojson }}</pre>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            // Handle Deploy New Decoy button click
+            $('#deploy_decoy_btn').click(function() {
+                $.ajax({
+                    url: '/deploy-decoy',
+                    method: 'POST',
+                    success: function(response) {
+                        // Update the dashboard with the new state
+                        $('#active_traps').text(response.active_traps);
+                        $('#decoy_status').text(response.decoy_status);
+                        $('#current_state').text(JSON.stringify(response, null, 4));
+                    },
+                    error: function(error) {
+                        alert('Error deploying decoy: ' + error.responseText);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

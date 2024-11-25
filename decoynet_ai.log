@@ -1,0 +1,681 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:03:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:03:40] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:03:40] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:03:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:03:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:06:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:06:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:06:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:06:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:06:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\venv\\lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:08:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:08:21] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:08:21] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:08:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:08:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:08:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:08:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:08:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:08:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:08:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 22:11:31] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:11:31'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:11:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:11:32] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:11:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:11:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:11:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 22:14:01] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:14:01'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:14:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:14:01] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:14:01] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:14:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:14:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 22:17:08] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:17:08'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:17:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:17:09] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:17:09] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:17:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:17:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 22:19:05] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:19:05'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:19:05] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:19:05] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:19:05] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:19:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:19:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 22:20:33] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:20:33'}
+INFO:root:[2024-11-25 22:20:33] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:20:33] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:20:39] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:20:39'}
+INFO:root:[2024-11-25 22:20:39] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:20:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 22:28:22] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:28:22'}
+INFO:root:[2024-11-25 22:28:22] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:28:22] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:28:23] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:28:23'}
+INFO:root:[2024-11-25 22:28:23] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:28:24] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:28:24] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:28:24'}
+INFO:root:[2024-11-25 22:28:24] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:28:24] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:28:24] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:28:24'}
+INFO:root:[2024-11-25 22:28:24] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:28:24] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:28:24] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:28:24'}
+INFO:root:[2024-11-25 22:28:24] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:28:24] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:28:25] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:28:25'}
+INFO:root:[2024-11-25 22:28:25] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:28:25] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:28:29] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:28:29'}
+INFO:root:[2024-11-25 22:28:29] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:28:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 22:29:50] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:29:50'}
+INFO:root:[2024-11-25 22:29:50] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:29:50] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:29:51] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:29:51'}
+INFO:root:[2024-11-25 22:29:51] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:29:51] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:29:51] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:29:51'}
+INFO:root:[2024-11-25 22:29:51] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:29:51] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:29:51] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:29:51'}
+INFO:root:[2024-11-25 22:29:51] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:29:51] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:29:53] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:29:53'}
+INFO:root:[2024-11-25 22:29:53] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:29:53] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:29:53] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:29:53'}
+INFO:root:[2024-11-25 22:29:53] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:29:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 22:31:13] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:31:13'}
+INFO:root:[2024-11-25 22:31:13] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:31:13] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:31:14] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:31:14'}
+INFO:root:[2024-11-25 22:31:14] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:31:14] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:31:14] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:31:14'}
+INFO:root:[2024-11-25 22:31:14] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:31:14] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:31:14] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:31:14'}
+INFO:root:[2024-11-25 22:31:14] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:31:14] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:31:14] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:31:14'}
+INFO:root:[2024-11-25 22:31:14] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:31:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 22:33:08] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:33:08'}
+INFO:root:[2024-11-25 22:33:08] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:33:08] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:33:12] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:33:12'}
+INFO:root:[2024-11-25 22:33:12] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:33:12] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:33:15] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:33:15'}
+INFO:root:[2024-11-25 22:33:15] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:33:15] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:33:16] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:33:16'}
+INFO:root:[2024-11-25 22:33:16] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:33:16] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:33:16] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:33:16'}
+INFO:root:[2024-11-25 22:33:16] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:33:16] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:34:48] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:34:48'}
+INFO:root:[2024-11-25 22:34:48] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:34:48] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 22:34:48] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:34:48'}
+INFO:root:[2024-11-25 22:34:48] Anomaly detected, deploying new decoy.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:34:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\reinforcement.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 22:52:26] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 22:52:26'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:52:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:52:31] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:52:36] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:52:41] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:52:46] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:52:51] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:52:56] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:01] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:06] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:11] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:16] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:21] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:26] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:31] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:36] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:41] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:46] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:51] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:53:56] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:54:01] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:54:06] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 22:54:11] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\autoencoder.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:29] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:31] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:31] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:31'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:31] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:32] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:32] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:32'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:32] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:33] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:33] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:33'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:33] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:33] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:33] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:33'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:33] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:33] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:33] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:33'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:33] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:33] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:33] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:33'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:33] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:33] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:33] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:33'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:33] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:33] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:34] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:34'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:34] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:34] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:34] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:34'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:34] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:34] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:34] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:34'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:34] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:34] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:34] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:34'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:34] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:34] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:34] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:34'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:34] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:34] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:34] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:34'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:34] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:34] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:34] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:34'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:34] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:35] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:35] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:35'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:35] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:05:35] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:05:35] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:05:35'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:40] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:45] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:50] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:05:55] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:06:00] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:06:05] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:06:10] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:06:15] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:06:20] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:06:25] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:06:30] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:06:35] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:06:40] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:06:45] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\utils\\helpers.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:09:57] "[33mGET /get-dashboard-data HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\utils\\helpers.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 23:10:26] Error: Autoencoder model not found!
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\utils\\helpers.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:10:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\utils\\helpers.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 23:12:33] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:12:33] Decoy deployed: [[-0.0109548  -0.00340305 -0.02664618 ... -0.05192236  0.00464286
+   0.03142435]]
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:12:33] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:12:34] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:12:34] Decoy deployed: [[ 0.01433266 -0.01294392  0.02188517 ... -0.03344994 -0.05412763
+  -0.00247805]]
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:12:34] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:12:35] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:12:35] Decoy deployed: [[ 0.00494192 -0.00574288  0.01331022 ...  0.01022847  0.02748038
+   0.0317326 ]]
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:12:35] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:12:35] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:12:35] Decoy deployed: [[-0.0200807  -0.01318191 -0.02953347 ... -0.0113561  -0.00836172
+   0.0386284 ]]
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:12:35] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:12:36] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:12:36] Decoy deployed: [[ 0.02063815  0.04619493 -0.0394064  ... -0.0003831  -0.03865465
+  -0.00427964]]
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:12:36] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:12:36] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:12:36] Decoy deployed: [[-0.03282596  0.0229785   0.03577185 ... -0.01389873 -0.0358637
+   0.01118102]]
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:12:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:12:41] "[33mGET /get-dashboard-data HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\utils\\helpers.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:12:49] "[33mGET /get-dashboard-data HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:12:51] "[33mGET /get-dashboard-data HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\utils\\helpers.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:13:31] "[33mGET /get-dashboard-data HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:13:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:13:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:13:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:13:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:13:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 23:13:48] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:13:48] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:13:48'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:13:48] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:13:50] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:13:50] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:13:50'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:13:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:13:55] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:00] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:05] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:10] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:15] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:20] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:25] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:30] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:35] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:40] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:45] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:50] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:14:55] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:15:00] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:15:15] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:15:43] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:15:45] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:15:50] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:15:55] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\utils\\helpers.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:00] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:05] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:10] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:15] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:20] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:25] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:30] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:35] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:40] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:45] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:50] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:16:55] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:00] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:05] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:14] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:15] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:20] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:25] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:30] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:35] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:44] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:45] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:17:45] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:17:45] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:17:45'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:17:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 23:20:45] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:20:45] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:20:45'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:20:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:20:45] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:20:45] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:20:48] Decoy deployed: {'decoy_id': 2, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:20:48'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:20:48] "GET /deploy_decoy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:20:50] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:20:55] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:00] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:05] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:10] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:15] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:21:19] Decoy deployed: {'decoy_id': 3, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:21:19'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:19] "GET /deploy_decoy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:20] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:25] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:30] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:35] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:40] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:45] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:50] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:21:55] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:00] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:05] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:10] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:15] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:20] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:25] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:30] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:35] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:43] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:45] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:50] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:22:55] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:23:07] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:23:07] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:23:07] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:23:07'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:23:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:23:07] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:23:07] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:23:11] "[33mGET /deploy_decoy HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:23:13] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:23:15] "[33mGET /deploy_decoy HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:23:17] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:23:18] "[33mGET /deploy_decoy HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\gan.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:24:47] "[33mGET /deploy_decoy HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:24:48] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:24:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:24:49] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:24:49] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:24:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:24:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\models\\gan.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:root:[2024-11-25 23:25:12] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:25:12] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:25:12'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:12] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:12] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:15] "[33mGET /deploy_decoy HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:17] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:22] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:27] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:32] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:37] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:42] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:47] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:52] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:25:57] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:26:02] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:26:07] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\DecoyNetAI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:26:14] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:26:17] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:26:22] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 887-796-352
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:26:34] "GET /get-dashboard-data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:26:34] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:26:36] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:26:36] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:26:36'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:26:36] "POST /deploy-decoy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:27:41] "GET / HTTP/1.1" 200 -
+INFO:root:[2024-11-25 23:27:44] Error: Autoencoder model not found!
+INFO:root:[2024-11-25 23:27:44] Decoy deployed: {'decoy_id': 1, 'type': 'file', 'status': 'active', 'timestamp': '2024-11-25 23:27:44'}
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2024 23:27:44] "POST /deploy-decoy HTTP/1.1" 200 -

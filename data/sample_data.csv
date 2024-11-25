@@ -1,0 +1,8 @@
+attack_type,timestamp,source_ip,detected,system_status
+phishing,2024-11-24 10:00:00,192.168.1.1,True,Active
+ransomware,2024-11-24 10:05:00,192.168.1.2,False,Inactive
+network_scan,2024-11-24 10:10:00,192.168.1.3,True,Active
+phishing,2024-11-24 10:15:00,192.168.1.4,True,Inactive
+malware,2024-11-24 10:20:00,192.168.1.5,False,Active
+brute_force,2024-11-24 10:25:00,192.168.1.6,True,Inactive
+ 

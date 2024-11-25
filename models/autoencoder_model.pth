@@ -1,0 +1,45 @@
+import torch
+import torch.nn as nn
+
+# Define your autoencoder model (simplified for demonstration)
+class Autoencoder(nn.Module):
+    def __init__(self):
+        super(Autoencoder, self).__init__()
+        self.encoder = nn.Sequential(
+            nn.Linear(5, 1024),
+            nn.ReLU(),
+            nn.Linear(1024, 512),
+            nn.ReLU(),
+            nn.Linear(512, 256),
+            nn.ReLU()
+        )
+        self.decoder = nn.Sequential(
+            nn.Linear(256, 512),
+            nn.ReLU(),
+            nn.Linear(512, 1024),
+            nn.ReLU(),
+            nn.Linear(1024, 5),
+            nn.Sigmoid()
+        )
+
+    def forward(self, x):
+        x = self.encoder(x)
+        x = self.decoder(x)
+        return x
+
+# Create and train the model (this is a very simplified example)
+autoencoder = Autoencoder()
+dummy_data = torch.randn(10, 5)  # Example data, adjust based on your needs
+optimizer = torch.optim.Adam(autoencoder.parameters())
+loss_fn = nn.MSELoss()
+
+for epoch in range(100):  # Example training loop
+    optimizer.zero_grad()
+    output = autoencoder(dummy_data)
+    loss = loss_fn(output, dummy_data)  # Simplified, would use real data here
+    loss.backward()
+    optimizer.step()
+
+# Save the trained model
+torch.save(autoencoder.state_dict(), 'autoencoder_model.pth')
+print("Model saved!")
